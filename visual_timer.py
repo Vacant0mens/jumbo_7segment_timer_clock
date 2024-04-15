@@ -46,6 +46,7 @@ class VisualTimer():
             self.timers.append(timer_list)
             self.clock.digits.clear()
             if t > 9:
+                # remove 'e' from string to allow for second digit in Timer number
                 self.clock.digits.write_string(string="Timr.{0}".format(t), color='green', log_display=True, hold_display=0.25)
             else:
                 self.clock.digits.write_string(string="Timer.{0}".format(t), color='green', log_display=True, hold_display=0.25)
