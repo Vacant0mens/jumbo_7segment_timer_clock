@@ -1,0 +1,26 @@
+.title KiCad schematic
+U1 NC_01 NC_02 NC_03 Net-_U1-Pad4_ Net-_U1-Pad5_ Net-_U1-Pad6_ Net-_U1-Pad7_ Net-_U1-Pad8_ Net-_U1-Pad9_ Net-_12v1-Pad2_ Net-_U1-Pad11_ NC_04 NC_05 NC_06 NC_07 NC_08 WeMos_D1_mini
+U3 Net-_12v1-Pad2_ NC_09 Net-_U2-Pad20_ Net-_D1-Pad1_ Net-_D2-Pad1_ Net-_D3-Pad1_ Net-_D4-Pad1_ Net-_U2-Pad17_ Net-_U2-Pad15_ Net-_12v1-Pad2_ Net-_12v1-Pad2_ Net-_U2-Pad16_ Net-_U2-Pad18_ Net-_D5-Pad1_ Net-_D6-Pad1_ Net-_D7-Pad1_ Net-_D8-Pad1_ Net-_U3-Pad18_ Net-_12v1-Pad2_ Net-_12v1-Pad2_ TPIC6595
+U4 Net-_12v1-Pad2_ NC_10 Net-_U3-Pad18_ Net-_D9-Pad1_ Net-_D10-Pad1_ Net-_D11-Pad1_ Net-_D12-Pad1_ Net-_U2-Pad17_ Net-_U2-Pad15_ Net-_12v1-Pad2_ Net-_12v1-Pad2_ Net-_U2-Pad16_ Net-_U2-Pad18_ Net-_D13-Pad1_ Net-_D14-Pad1_ Net-_D15-Pad1_ Net-_D16-Pad1_ NC_11 Net-_12v1-Pad2_ Net-_12v1-Pad2_ TPIC6595
+U2 Net-_U1-Pad11_ Net-_U1-Pad8_ Net-_U1-Pad4_ Net-_U1-Pad5_ Net-_U1-Pad6_ Net-_U1-Pad7_ NC_12 NC_13 NC_14 NC_15 Net-_12v1-Pad2_ NC_16 NC_17 NC_18 Net-_U2-Pad15_ Net-_U2-Pad16_ Net-_U2-Pad17_ Net-_U2-Pad18_ Net-_U1-Pad9_ Net-_U2-Pad20_ TXS0108EPW
+12v1 Net-_12v1-Pad1_ Net-_12v1-Pad2_ Barrel_Jack
+D2 Net-_D2-Pad1_ Net-_D1-Pad2_ LED
+D3 Net-_D3-Pad1_ Net-_D1-Pad2_ LED
+D4 Net-_D4-Pad1_ Net-_D1-Pad2_ LED
+D5 Net-_D5-Pad1_ Net-_D1-Pad2_ LED
+D6 Net-_D6-Pad1_ Net-_D1-Pad2_ LED
+D7 Net-_D7-Pad1_ Net-_D1-Pad2_ LED
+D8 Net-_D8-Pad1_ Net-_D8-Pad2_ LED
+D1 Net-_D1-Pad1_ Net-_D1-Pad2_ LED
+D10 Net-_D10-Pad1_ Net-_D1-Pad2_ LED
+D11 Net-_D11-Pad1_ Net-_D1-Pad2_ LED
+D12 Net-_D12-Pad1_ Net-_D1-Pad2_ LED
+D13 Net-_D13-Pad1_ Net-_D1-Pad2_ LED
+D14 Net-_D14-Pad1_ Net-_D1-Pad2_ LED
+D15 Net-_D15-Pad1_ Net-_D1-Pad2_ LED
+D16 Net-_D16-Pad1_ Net-_D16-Pad2_ LED
+D9 Net-_D9-Pad1_ NC_19 LED
+Res0 Net-_D1-Pad2_ Net-_12v1-Pad1_ 220 Ohm
+Res2 Net-_D1-Pad2_ Net-_D16-Pad2_ 1.1k Ohm
+Res1 Net-_D1-Pad2_ Net-_D8-Pad2_ 1.1k Ohm
+.end
